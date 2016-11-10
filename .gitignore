@@ -1,0 +1,10 @@
+# build output
+
+# dependencies
+yarn.lock
+node_modules
+
+# logs
+npm-debug.log
+
+# other
