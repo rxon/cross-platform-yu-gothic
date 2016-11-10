@@ -1,0 +1,55 @@
+/*! cross-platform-yu-gothic v0.1.0 | MIT License | github.com/rxon/cross-platform-yu-gothic */
+
+@font-face {
+  font-family: "cross-platform-yu-gothic";
+  font-weight: 100;
+  src: local("YuGothic-Light"), local("Yu Gothic Light");
+}
+
+@font-face {
+  font-family: "cross-platform-yu-gothic";
+  font-weight: 200;
+  src: local("YuGothic-Light"), local("Yu Gothic Light");
+}
+
+@font-face {
+  font-family: "cross-platform-yu-gothic";
+  font-weight: 300;
+  src: local("YuGothic-Regular"), local("Yu Gothic");
+}
+
+@font-face {
+  font-family: "cross-platform-yu-gothic";
+  font-weight: 400;
+  src: local("YuGothic-Medium"), local("Yu Gothic Medium"), local("YuGothic-Regular");
+}
+
+@font-face {
+  font-family: "cross-platform-yu-gothic";
+  font-weight: 500;
+  src: local("YuGothic-Medium"), local("Yu Gothic Medium"), local("YuGothic-Regular");
+}
+
+@font-face {
+  font-family: "cross-platform-yu-gothic";
+  font-weight: 600;
+  src: local("YuGothic-Bold"), local("Yu Gothic");
+}
+
+@font-face {
+  font-family: "cross-platform-yu-gothic";
+  font-weight: 700;
+  src: local("YuGothic-Bold"), local("Yu Gothic");
+}
+
+@font-face {
+  font-family: "cross-platform-yu-gothic";
+  font-weight: 800;
+  src: local("YuGothic-Bold"), local("Yu Gothic");
+}
+
+@font-face {
+  font-family: "cross-platform-yu-gothic";
+  font-weight: 900;
+  src: local("YuGothic-Bold"), local("Yu Gothic");
+}

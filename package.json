@@ -1,0 +1,24 @@
+{
+  "name": "cross-platform-yu-gothic",
+  "description": "Cross-platform 游ゴシック",
+  "version": "0.1.0",
+  "author": "rxon",
+  "devDependencies": {
+    "stylelint": "^7.5.0",
+    "stylelint-config-standard": "^14.0.0"
+  },
+  "files": [
+    "cross-platform-yu-gothic.css",
+    "README.md",
+    "LICENSE"
+  ],
+  "license": "MIT",
+  "main": "cross-platform-yu-gothic.css",
+  "repository": "rxon/cross-platform-yu-gothic",
+  "scripts": {
+    "test": "stylelint cross-platform-yu-gothic.css"
+  },
+  "stylelint": {
+    "extends": "stylelint-config-standard"
+  }
+}
