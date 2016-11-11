@@ -25,11 +25,11 @@ body {
 
 ## Related
 
-- [opn-cli](https://github.com/sindresorhus/opn-cli) - CLI for this module
+- [](https://) - 
 
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [](http://)
 
 > [](http://) &nbsp;&middot;&nbsp;
 > GitHub [@](https://github.com/) &nbsp;&middot;&nbsp;
