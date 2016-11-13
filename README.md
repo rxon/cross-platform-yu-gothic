@@ -2,9 +2,9 @@
 
 > @font-face to use **游ゴシック** in Cross-platform.
 
-## Why?
+<!-- ## Why?
 
- Cross-platform.
+ Cross-platform. -->
 
 ## Install
 
@@ -18,19 +18,19 @@ $ npm install cross-platform-yu-gothic --save
 @import 'cross-platform-yu-gothic.css'
 
 body {
-	font-family: ;
+	font-family: cross-platform-yu-gothic, sans-serif;
 }
 
 ```
 
-## Related
+## Inspirated
 
-- [](https://) - 
+- [モダン日本語フォント指定](https://speakerdeck.com/tacamy/modanri-ben-yu-huontozhi-ding) - This slide proposes to use font-face to use 游ゴシック on cross platform.
 
 ## License
 
-MIT © [](http://)
+MIT © [rxon](https://github.com/rxon)
 
-> [](http://) &nbsp;&middot;&nbsp;
+<!-- > [](http://) &nbsp;&middot;&nbsp;
 > GitHub [@](https://github.com/) &nbsp;&middot;&nbsp;
-> Twitter [@](https://twitter.com/)
+> Twitter [@](https://twitter.com/) -->
