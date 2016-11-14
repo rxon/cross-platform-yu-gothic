@@ -15,7 +15,7 @@ $ npm install cross-platform-yu-gothic --save
 ## Usage
 
 ```css
-@import 'cross-platform-yu-gothic.css'
+@import 'cross-platform-yu-gothic'
 
 body {
 	font-family: cross-platform-yu-gothic, sans-serif;
