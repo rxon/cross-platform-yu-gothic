@@ -1,7 +1,7 @@
 {
   "name": "cross-platform-yu-gothic",
   "description": "Cross-platform 游ゴシック",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "rxon",
   "devDependencies": {
     "postcss-cli": "^2.6.0",
